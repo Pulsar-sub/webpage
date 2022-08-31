@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="159"
+   height="159"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="YouTube_icon.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:zoom="3.2681818"
+     inkscape:cx="43.449235"
+     inkscape:cy="82.002782"
+     inkscape:window-width="1920"
+     inkscape:window-height="1106"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="m 154.14876,41.981174 c -1.82,-6.73 -7.07,-12 -13.8,-13.8 -9.04,-3.49 -96.599995,-5.2 -121.999995,0.1 -6.73,1.82 -12.0000002,7.07 -13.8000002,13.8 -4.08000002,17.9 -4.39000002,56.599995 0.1,74.899996 1.82,6.73 7.0700002,12 13.8000002,13.8 17.9,4.12 102.999995,4.7 121.999995,0 6.73,-1.82 12,-7.07 13.8,-13.8 4.35,-19.499996 4.66,-55.799996 -0.1,-74.999996 z"
+     fill="#ff0000"
+     id="path2" />
+  <path
+     d="m 105.14876,79.481174 -40.799995,-23.4 v 46.799996 z"
+     fill="#ffffff"
+     id="path4" />
+</svg>

@@ -1,0 +1,85 @@
+@charset "UTF-8";
+body {
+    width:100%;
+}
+div#topbar {
+    width: 100%;
+}
+
+/*ブロック１*/
+h2 {
+    font-size: 200%;
+    text-decoration: underline 5px #b2dfdb;
+}
+p#block1 {
+    padding: 0% 0% 10% 0%;
+}
+
+/*ブロック２*/
+div#block2L {
+    clear: both;
+    width: 100%; height: auto;
+    background-color: #b2dfdb;
+}
+p#block2L {
+    padding: 250px 0% 0% 0%;
+}
+iframe#latest_work {
+    width: 96%; 
+    margin:10px 2%;
+}
+div#block2R {
+    clear: both;
+    width: 100%; height: auto;
+    margin: 0px 0% 100px 0%;
+    background-color: #b2dfdb;
+}
+p#block2R {
+    padding: 0px;
+}
+h3#block2 {
+    width:96%;
+    font-size: 200%;
+    padding: 0px 2%;
+}
+p#block2date {
+    width: 96%;
+    padding:0px 2% 10px 2%;
+}
+p#block2text {
+    width: 96%;
+    padding: 0px 2% 20px 2%;
+}
+
+/*ブロック３*/
+h3#block3 {
+    clear: both;
+    width: 96%;
+    font-size: 200%;
+    margin: 25px 2% 0px 2%;
+}
+img#block3icn {
+    clear: both;
+    width: 50%; height: 50%;
+    margin: 10% 25% 1% 25%;
+}
+div#block3R {
+    clear: both;
+    width:94%;
+    margin: 0px 3% 100px 3%;
+}
+h4#block3R {
+    font-size: 150%;
+    text-align: center;
+    margin: 0;
+}
+p#block3txt {
+    margin: 0px;
+}
+img#twitter_icon {
+    margin: 0px 1px 0px 1px;
+}
+img#youtube_icon {
+    margin: 0px 1px 0px 1px;
+}
+
